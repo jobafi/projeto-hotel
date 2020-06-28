@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="imagens/logo.png" alt="Hotel Paraíso">
+    <img src="img/logo.png" alt="Hotel Paraíso">
 </h>
 
 # Sobre
