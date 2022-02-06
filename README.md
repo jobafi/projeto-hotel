@@ -15,7 +15,7 @@
  * **[CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/O_que_e_CSS)**
  * **[Markdown](https://daringfireball.net/projects/)**
 
-## Farramentas:
+## Ferramentas:
  * **[Visual Studio Code](https://code.visualstudio.com/)**
  * **[Git](https://git-scm.com/)**
  * **[GitHub](https://github.com/)**
