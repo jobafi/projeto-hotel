@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="img/logo.png" alt="Hotel Paraíso">
-</h>
+</h1>
 
 # Sobre
 
